@@ -1,0 +1,17 @@
+app\Actions
+app\Helpers\User.php
+app\Http\Controllers
+app\Models
+app\Notifications
+app\Observers
+app\Policies
+app\Providers\FortifyServiceProvider.php
+app\View
+config
+database\migrations
+resources\lang\id
+resources\lang\id.json
+resources\views
+routes
+.env.example
+composer.json
